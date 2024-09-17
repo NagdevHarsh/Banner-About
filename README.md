@@ -16,7 +16,6 @@
     </a>
 </p>
 
-# 💻 Tech Stack:
 <!-- Rest of your content -->
 
 
