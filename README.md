@@ -1,6 +1,6 @@
 ## 🌐 Socials:
 <!-- Add your background image at the top -->
-<img src="https://your-linkedin-banner.jpg" alt="Background Image" style="width:100%; height:auto;">
+<img src="https://your-linkedin-banner.jpg" alt="Background Image" style="width:100; height:auto;">
 
 ## 🌐 Socials:
 <p align="left">
