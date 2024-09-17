@@ -25,6 +25,12 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC.svg?style=for-the-badge&logo=data&logoColor=white)
+![Operating System](https://img.shields.io/badge/Operating%20System-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-FF6F00.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project%20Management-007ACC.svg?style=for-the-badge&logo=project-management&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791.svg?style=for-the-badge&logo=database&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nharsh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
