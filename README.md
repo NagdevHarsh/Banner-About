@@ -1,6 +1,5 @@
 <img src="linked in baner.jpg" alt="Background Image" style="width:100; height:auto;">
 
-## 🌐 Socials:
 <!-- Add your background image at the top -->
 
 
