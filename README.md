@@ -1,5 +1,8 @@
 ## 🌐 Socials:
+<!-- Add your background image at the top -->
+<img src="https://your-linkedin-banner.jpg" alt="Background Image" style="width:100%; height:auto;">
 
+## 🌐 Socials:
 <p align="left">
     <a href="https://facebook.com/nagdevharsh" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
@@ -11,6 +14,10 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
+
+# 💻 Tech Stack:
+<!-- Rest of your content -->
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
