@@ -1,4 +1,4 @@
-<img src="linked in baner.jpg" alt="Background Image" style="width:100px; height:auto;"> <!-- Add your background image at the top -->
+<img src="linked in baner.jpg" alt="Background Image" style="width:100%; height:auto;"> <!-- Add your background image at the top -->
 
 ## 🌐 Socials:
 <p align="left">
