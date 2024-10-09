@@ -1,7 +1,4 @@
-<img src="linked in baner.jpg" alt="Background Image" style="width:100; height:auto;">
-
-<!-- Add your background image at the top -->
-
+<img src="linked in baner.jpg" alt="Background Image" style="width:100px; height:auto;"> <!-- Add your background image at the top -->
 
 ## 🌐 Socials:
 <p align="left">
@@ -15,9 +12,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
-
-<!-- Rest of your content -->
-
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -38,17 +32,16 @@
 ![Project Management](https://img.shields.io/badge/Project%20Management-007ACC.svg?style=for-the-badge&logo=project-management&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-336791.svg?style=for-the-badge&logo=database&logoColor=white)
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nharsh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nharsh07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nharsh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=NagdevHarsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NagdevHarsh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NagdevHarsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Nharsh07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NagdevHarsh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Nharsh07&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NagdevHarsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
